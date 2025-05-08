@@ -1,0 +1,21 @@
+{
+    "name": "predictive-maintenance-frontend",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "serve": "vue-cli-service serve",
+      "build": "vue-cli-service build",
+      "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+      "axios": "^1.6.0",
+      "chart.js": "^4.4.0",
+      "vue": "^3.2.0",
+      "vue-chartjs": "^5.2.0",
+      "vuetify": "^3.0.0"
+    },
+    "devDependencies": {
+      "@vue/cli-service": "^5.0.0",
+      "vue-cli-plugin-vuetify": "^2.5.0"
+    }
+  }
